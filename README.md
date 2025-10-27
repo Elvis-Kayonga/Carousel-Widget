@@ -1,16 +1,16 @@
-# carousel_view_widget
+# Carousel View Widget
 
-A new Flutter project.
+A simple Flutter carousel slider that displays multiple images in a scrollable, auto-playing slider.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## How to Run
 
-A few resources to get you started if this is your first Flutter project:
+1. Make sure you have Flutter installed.  
+2. Open the project folder in Android Studio or VS Code.  
+3. Run your preferred emulator or connect a physical device.  
+4. Execute:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+flutter pub get
+flutter run
